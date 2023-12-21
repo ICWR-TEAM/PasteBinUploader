@@ -1,5 +1,5 @@
 # PasteBinUploader
-![carbon (13)](https://github.com/ICWR-TEAM/PasteBinUploader/assets/45759837/e2c47c9e-6213-4cb1-b7fc-aaa1f0006faa)
+![carbon (13)](https://github.com/ICWR-TEAM/PastebinUploader/assets/45759837/f58b699c-c0ad-4048-8bcb-dd77741f20d5)
 
 # Requirements
 
@@ -32,5 +32,4 @@ If you want to upload a file, please place your file in the "file" folder provid
 ```
 
 # License
-![289235167-0c8c50b4-ff8b-4d7c-8307-a502fbc2473d](https://github.com/ICWR-TEAM/PasteBinUploader/assets/45759837/8ae01709-e1d9-4d8c-baac-d112d4a59c5e)
-
+![289235167-0c8c50b4-ff8b-4d7c-8307-a502fbc2473d](https://github.com/ICWR-TEAM/PastebinUploader/assets/45759837/1c0ace01-95e0-4bcd-a7ce-b5e2765084e5)
